@@ -1,10 +1,10 @@
 # Blog Explorer
 
-A Flutter application that fetches and displays a list of blogs using a RESTful API. The app supports features such as searching for blogs, favoriting blog posts, and refreshing the list of blogs. It also integrates with Hive for local storage and uses environment variables for API configuration.
+A Flutter application that fetches and displays a list of blogs using a API. The app supports features such as searching for blogs, favoriting blog posts, and refreshing the list of blogs. It also integrates with Hive for local storage and uses environment variables for API configuration.
 
 ## Features
 
-- **Blog Listing**: Fetch and display a list of blogs from a RESTful API.
+- **Blog Listing**: Fetch and display a list of blogs from API.
 - **Search**: Search for blogs by title.
 - **Favorites**: Mark blogs as favorites and persist them locally using Hive.
 - **Refresh**: Pull-to-refresh to reload the list of blogs.
@@ -68,22 +68,15 @@ A Flutter application that fetches and displays a list of blogs using a RESTful 
 ## Dependencies
 
 - `flutter_bloc`: State management with BLoC pattern.
-- `hive_flutter`: Local storage with Hive.
-- `http`: Making HTTP requests.
 - `flutter_dotenv`: Managing environment variables.
 
 ## Troubleshooting
 
 - **FileNotFoundError**: Ensure the `.env` file is located in the root directory and properly formatted.
-- **Hive Initialization**: Verify that Hive is properly initialized before usage.
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request to improve the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
