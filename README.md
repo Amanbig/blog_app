@@ -21,7 +21,7 @@ A Flutter application that fetches and displays a list of blogs using a API. The
 2. **Navigate to the Project Directory**:
 
     ```sh
-    cd blog_explorer
+    cd blog_app
     ```
 
 3. **Install Dependencies**:
