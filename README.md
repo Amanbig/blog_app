@@ -1,6 +1,6 @@
 # Blog Explorer
 
-A Flutter application that fetches and displays a list of blogs using a API. The app supports features such as searching for blogs, favoriting blog posts, and refreshing the list of blogs. It also integrates with Hive for local storage and uses environment variables for API configuration.
+A Flutter application that fetches and displays a list of blogs using a API. The app supports features such as searching for blogs, favoriting blog posts, and refreshing the list of blogs. 
 
 ## Features
 
