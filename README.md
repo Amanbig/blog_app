@@ -15,7 +15,7 @@ A Flutter application that fetches and displays a list of blogs using a API. The
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/your_username/blog_explorer.git
+    git clone https://github.com/Amanbig/blog_app.git
     ```
 
 2. **Navigate to the Project Directory**:
